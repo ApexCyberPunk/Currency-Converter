@@ -163,4 +163,4 @@ let currency = {
     "ZWL": "Zimbabwean dollar"
 }
 
-let currencyKeysArray = Object.keys(currency)
+let currencies = Object.keys(currency)
